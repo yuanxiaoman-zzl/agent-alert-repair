@@ -1,0 +1,7 @@
+{
+  "episode": "demo-episode-001",
+  "task": "demo-task",
+  "code": "observer_heartbeat_stale",
+  "manual_stop": false,
+  "observable": true
+}

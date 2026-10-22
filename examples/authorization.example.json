@@ -1,0 +1,7 @@
+{
+  "enabled": false,
+  "task": "demo-task",
+  "repair_codes": ["observer_heartbeat_stale"],
+  "allowed_changes": ["Repair the synthetic observer heartbeat inside the dedicated incident workspace only"],
+  "daily_limit": 6
+}
